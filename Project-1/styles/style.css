@@ -145,7 +145,7 @@ footer ul li a{
 
 }
 
-footer  li a:hover{
+footer ul li a i:hover{
   /* border: 1px solid gray; */
   font-size: 31px;
   /* color: white; */
